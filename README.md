@@ -9,5 +9,3 @@
 7. Game play continues after a win
 8. A 'Moderation Win' can be awarded to any player who introduces a rule that effectively balances discussion, prevents conversational monopolies, or eliminates filibustering
 9. The parties are Red, Green, Blue, Yellow, Purple, and Maple. A player can join a party by saying so.
-10. A passed proposal can make other changes besides creating a rule if it clearly says so.
-11. Edited proposals are rejected
