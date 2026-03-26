@@ -4,7 +4,7 @@
 1. Rules should be short
 2. Players suggest rules by posting them to this chat
 3. The rules should always, by player action, be able to be changed in part
-5 . A proposal passes with a simple majority of "Yes" votes, provided that "No" votes do not exceed 20% of the total poll participants.
+5\. A proposal passes with a simple majority of "Yes" votes, provided that "No" votes do not exceed 20% of the total poll participants.
 6. A valid poll is created by filling in the proposal text within the following message and posting: /timepoll question: Proposal: [Text] time: 2d answer-1: Yes answer-2: No answer-3: Abstain 
 7. Game play continues after a win
 8. A 'Moderation Win' can be awarded to any player who introduces a rule that effectively balances discussion, prevents conversational monopolies, or eliminates filibustering
