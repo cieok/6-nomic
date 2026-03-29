@@ -2,7 +2,7 @@
 # 6-nomic
 ## Current rules
 `1.` Rules should be short  
-`2.` Players suggest rules by posting them to this chat  
+`2.` All rule changes must be submitted via #6-nomic-voting.
 `3.` The rules should always, by player action, be able to be changed in part  
 `5.` A proposal passes with a simple majority of "Yes" votes, provided that "No" votes do not exceed 20% of the total poll participants.  
 `6.` A valid poll is created by filling in the proposal text within the following message and posting:   
