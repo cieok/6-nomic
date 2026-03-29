@@ -12,3 +12,5 @@
 `9.` The parties are Red, Green, Blue, Yellow, Purple, and Maple. A player can join a party by saying so.  
 `10.` Any poll displaying "Edited" next to the Poll ID is rejected.  
 `11.` A passed proposal can make other changes besides creating a rule if it clearly says so.  
+
+Copy of this rules and step by step changes are available at https://github.com/cieok/6-nomic 
